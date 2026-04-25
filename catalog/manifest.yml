@@ -2,7 +2,7 @@ sourcecode:
   type: git
   location:
     origin: https://github.com/pinkpwningclub/flipperTrack.git
-    commit_sha: 18f318897fe2753ebbad5a6198b7b1e74dadd23b
+    commit_sha: a71095c1e650718c8e7ba3fedb21af258fa979e3
 
 short_description: "HID activity simulator for productivity monitoring research"
 description: "@README.md"
