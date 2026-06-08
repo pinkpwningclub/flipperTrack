@@ -20,6 +20,4 @@ USB HID activity simulator for Flipper Zero. Generates periodic mouse movement, 
 
 ## Build
 
-```
-ufbt
-```
+Build with ufbt.
